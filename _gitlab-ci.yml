@@ -1,0 +1,5 @@
+feedback:
+  script:
+  - run_kate . cspark/ads03-classification-model-selection:production
+  tags:
+  - kate2.0
